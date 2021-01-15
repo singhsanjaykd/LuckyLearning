@@ -1,2 +1,2 @@
 # LuckyLearning
-GitHub Learning
+GitHub Learning!
